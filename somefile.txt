@@ -1,5 +1,5 @@
-username=
-password=
-phone=
-address=
-pincode=
+username=fdgh
+password=1234
+phone=4567
+address=3245
+pincode=2345
